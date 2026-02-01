@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Reservations Manager",
+  "description": "An elegant web application to manage restaurant reservations. It allows adding new reservations and viewing them categorized by today's lunch, today's dinner, and future bookings. The system provides real-time visual cues for late arrivals.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
